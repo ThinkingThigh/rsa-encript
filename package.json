@@ -1,0 +1,19 @@
+{
+  "name": "rsa-encript",
+  "version": "1.0.0",
+  "description": "rsa-encript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkingThigh/rsa-encript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkingThigh/rsa-encript/issues"
+  },
+  "homepage": "https://github.com/ThinkingThigh/rsa-encript#readme"
+}
